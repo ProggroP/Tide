@@ -1,0 +1,47 @@
+Tide - Rebble App Store listing
+
+Updated with each release. English, plain text, one paragraph or list item per
+line so the store fields can be copied without reflowing. Check with:
+
+    .\pb.ps1 finish tide
+
+-------------------------------------------------------------------------
+
+TITLE
+
+Tide
+
+
+TAGLINE
+
+A big hour, a sweeping minute arc and the date, in your colours.
+
+
+DESCRIPTION
+
+Tide keeps the time quiet and graphic: one large hour number in the centre, the minutes as an arc that fills around the edge, and a small date below.
+
+The minute arc has a soft track and a bright marker at the current minute, so the time is readable at a glance without a second hand.
+
+Tide is built for Pebble Time 2 and Pebble Round 2. The layout adapts to the rectangular and the round screen, and the hour follows the watch's 12 or 24 hour setting.
+
+
+SETTINGS
+
+- Background - the face colour.
+- Hour and date - the colour of the hour and the date.
+- Accent colour - the colour of the minute arc and its marker.
+
+12 or 24 hour format follows the watch setting.
+
+
+CATEGORY
+
+Watchfaces
+
+
+RELEASE NOTES
+
+1.0.0
+
+First release.

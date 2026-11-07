@@ -1,0 +1,7 @@
+{
+  "presets": [
+    { "name": "classic", "settings": { "COLOR_BG": 0,        "COLOR_FG": 16777215, "COLOR_ACCENT": 43775    } },
+    { "name": "ocean",   "settings": { "COLOR_BG": 21930,    "COLOR_FG": 16777215, "COLOR_ACCENT": 16755200 } },
+    { "name": "paper",   "settings": { "COLOR_BG": 16777215, "COLOR_FG": 0,        "COLOR_ACCENT": 43520    } }
+  ]
+}

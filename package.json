@@ -1,0 +1,49 @@
+{
+    "author": "Axel Kark",
+    "dependencies": {
+        "@rebble/clay": "1.0.8"
+    },
+    "keywords": [
+        "pebble-app",
+        "watchface",
+        "tide"
+    ],
+    "name": "tide",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "Tide",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "COLOR_BG",
+            "COLOR_FG",
+            "COLOR_ACCENT"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "characterRegex": "[0-9]",
+                    "file": "fonts/leco1976-pebble.otf",
+                    "name": "FONT_HOUR_104",
+                    "targetPlatforms": [
+                        "emery",
+                        "gabbro"
+                    ],
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "emery",
+            "gabbro"
+        ],
+        "uuid": "aa463a8a-d2c0-4a9f-90b5-163aa7a8be99",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
